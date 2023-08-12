@@ -1,4 +1,4 @@
-package Wrappers;
+package wrappers;
 
 public class Teste {
     public static void main(String[] args) {
