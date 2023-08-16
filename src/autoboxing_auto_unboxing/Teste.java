@@ -22,6 +22,7 @@ public class Teste {
 
         //auto unboxing num9 -> autoboxing num13/num9 -> num14
         Integer num14 = num13/num9;
+        System.out.println(num14);
 
         //mau uso
         Double a, b, c;
@@ -31,7 +32,6 @@ public class Teste {
 
         Double media = (a + b + c) / 3;
         System.out.println(media);
-
 
 
     }

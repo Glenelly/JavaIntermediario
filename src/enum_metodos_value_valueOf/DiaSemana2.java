@@ -1,4 +1,4 @@
-package enummetodosvaluevalueOf;
+package enum_metodos_value_valueOf;
 
 public enum DiaSemana2 {
 

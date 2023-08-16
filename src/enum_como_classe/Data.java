@@ -1,4 +1,4 @@
-package enumcomoclasse;
+package enum_como_classe;
 
 public class Data {
 

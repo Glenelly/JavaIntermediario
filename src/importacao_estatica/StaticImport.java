@@ -1,4 +1,4 @@
-package importacaoestatica;
+package importacao_estatica;
 
 //import static java.lang.Math.pow;
 //import static java.lang.Math.sqrt;

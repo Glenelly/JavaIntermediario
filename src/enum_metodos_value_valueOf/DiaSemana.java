@@ -1,4 +1,4 @@
-package enumcomoclasse;
+package enum_metodos_value_valueOf;
 
 public enum DiaSemana {
     SEGUNDA(1), TERCA(2), QUARTA(3), QUINTA(4),

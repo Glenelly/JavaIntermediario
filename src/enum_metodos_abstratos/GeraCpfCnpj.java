@@ -1,4 +1,4 @@
-package enummetodosabstratos;
+package enum_metodos_abstratos;
 
 import java.util.InputMismatchException;
 
